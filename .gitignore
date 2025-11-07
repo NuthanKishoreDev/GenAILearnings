@@ -1,0 +1,15 @@
+# Python/Node typical
+__pycache__/
+*.pyc
+node_modules/
+
+# Envs & local config
+.env
+*.env
+.env.*
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
