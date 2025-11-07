@@ -1,0 +1,21 @@
+ProductID,ProductName,Catalog,Stock,PriceEach
+2001,Laptop,Electronics,25,85000
+2002,Wireless Mouse,Electronics,100,1200
+2003,Mechanical Keyboard,Electronics,75,3500
+2004,Office Chair,Furniture,40,7500
+2005,Desk Lamp,Furniture,60,2200
+2006,Smartphone,Electronics,30,65000
+2007,Water Bottle,Kitchen,150,450
+2008,Coffee Maker,Kitchen,40,4800
+2009,Running Shoes,Sports,50,5500
+2010,Tennis Racket,Sports,35,7200
+2011,Monitor 24inch,Electronics,45,11000
+2012,Headphones,Electronics,80,2800
+2013,Backpack,Travel,90,1800
+2014,Power Bank,Electronics,70,1600
+2015,Microwave Oven,Kitchen,25,9800
+2016,Smart Watch,Electronics,40,9200
+2017,Printer,Office Supplies,20,14500
+2018,Notebook Pack,Office Supplies,200,300
+2019,Pen Drive 64GB,Electronics,150,900
+2020,Desk Organizer,Furniture,65,1300

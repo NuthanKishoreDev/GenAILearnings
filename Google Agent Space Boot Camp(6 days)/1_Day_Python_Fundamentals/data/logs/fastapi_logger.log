@@ -1,0 +1,156 @@
+2025-11-07 16:29:56,729 - INFO - Home endpoint accessed
+2025-11-07 16:30:06,114 - INFO - Products endpoint accessed
+2025-11-07 16:30:14,010 - INFO - Product endpoint accessed for product_id: 2
+2025-11-07 16:30:14,011 - INFO - Product found: {'id': 2, 'name': 'Mouse', 'price': 2000}
+2025-11-07 16:30:19,472 - INFO - Product endpoint accessed for product_id: 22
+2025-11-07 16:30:19,472 - WARNING - Product not found for product_id: 22
+2025-11-07 16:39:23,253 - INFO - AppLogger - Product endpoint accessed for product_id: 22
+2025-11-07 16:39:23,253 - WARNING - AppLogger - Product not found for product_id: 22
+2025-11-07 16:39:24,705 - INFO - AppLogger - Product endpoint accessed for product_id: 22
+2025-11-07 16:39:24,705 - WARNING - AppLogger - Product not found for product_id: 22
+2025-11-07 16:39:27,476 - INFO - AppLogger - Product endpoint accessed for product_id: 2
+2025-11-07 16:39:27,477 - INFO - AppLogger - Product found: {'id': 2, 'name': 'Mouse', 'price': 2000}
+2025-11-07 16:39:31,238 - INFO - AppLogger - Products endpoint accessed
+2025-11-07 16:39:33,991 - INFO - AppLogger - Products endpoint accessed
+2025-11-07 16:39:36,916 - INFO - AppLogger - Home endpoint accessed
+2025-11-07 16:40:30,960 - INFO - FastAPI Logger - Home endpoint accessed
+2025-11-07 16:40:37,393 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 16:40:41,264 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 1
+2025-11-07 16:40:41,264 - INFO - FastAPI Logger - Product found: {'id': 1, 'name': 'Laptop', 'price': 90000}
+2025-11-07 16:40:45,644 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 23
+2025-11-07 16:40:45,644 - WARNING - FastAPI Logger - Product not found for product_id: 23
+2025-11-07 17:09:42,118 - INFO - FastAPI Logger - Home endpoint accessed
+2025-11-07 17:09:52,323 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 1001
+2025-11-07 17:09:52,326 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:09:52,326 - WARNING - FastAPI Logger - Product not found for product_id: 1001
+2025-11-07 17:10:21,717 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:10:21,718 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:10:21,718 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:10:24,726 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:10:24,728 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:10:24,728 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:10:52,674 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:10:52,675 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:10:52,675 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:10:53,399 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:10:53,400 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:10:53,400 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:10:54,159 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:10:54,160 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:10:54,160 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:10:54,395 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:10:54,397 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:10:54,397 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:10:55,639 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:10:55,640 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:10:55,640 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:13:52,927 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:13:52,930 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:13:52,930 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:14:32,355 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:14:32,356 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:14:32,357 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:14:32,357 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:14:32,357 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:15:26,944 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:15:26,945 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:15:26,946 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:15:26,947 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:15:26,947 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:18:58,185 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:18:58,186 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:18:58,187 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:18:58,188 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:18:58,188 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:23:28,797 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:23:28,799 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:23:28,799 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:23:28,800 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:23:28,800 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:24:04,964 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:24:04,965 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:24:07,133 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:24:07,135 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:24:12,114 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2
+2025-11-07 17:24:12,115 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:24:12,115 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:24:12,115 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:24:12,115 - WARNING - FastAPI Logger - Product not found for product_id: 2
+2025-11-07 17:27:13,703 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2
+2025-11-07 17:27:13,704 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:13,704 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:27:13,705 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:13,705 - WARNING - FastAPI Logger - Product not found for product_id: 2
+2025-11-07 17:27:14,682 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2
+2025-11-07 17:27:14,683 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:14,683 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:27:14,685 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:14,685 - WARNING - FastAPI Logger - Product not found for product_id: 2
+2025-11-07 17:27:14,900 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2
+2025-11-07 17:27:14,901 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:14,901 - INFO - FastAPI Logger - available products: {'products': []} 
+2025-11-07 17:27:14,901 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:14,902 - WARNING - FastAPI Logger - Product not found for product_id: 2
+2025-11-07 17:27:17,464 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:27:17,465 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:20,103 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:27:20,104 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:20,788 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:27:20,790 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:21,004 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:27:21,006 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:27:25,006 - INFO - FastAPI Logger - Home endpoint accessed
+2025-11-07 17:28:00,466 - INFO - FastAPI Logger - Home endpoint accessed
+2025-11-07 17:28:01,535 - INFO - FastAPI Logger - Home endpoint accessed
+2025-11-07 17:28:06,481 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:28:06,483 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:28:52,027 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:28:52,029 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:28:53,126 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:28:53,128 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:28:53,910 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:28:53,911 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:28:54,141 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:28:54,143 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:29:12,662 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:29:12,663 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.csv
+2025-11-07 17:29:12,664 - ERROR - FastAPI Logger - Error reading products CSV: Expecting value: line 1 column 1 (char 0)
+2025-11-07 17:31:32,664 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:31:32,667 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:31:54,055 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2
+2025-11-07 17:31:54,056 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:31:54,057 - INFO - FastAPI Logger - available products: {'products': [{'ProductID': '2001', 'ProductName': 'Laptop', 'Catalog': 'Electronics', 'Stock': '25', 'PriceEach': '85000'}, {'ProductID': '2002', 'ProductName': 'Wireless Mouse', 'Catalog': 'Electronics', 'Stock': '100', 'PriceEach': '1200'}, {'ProductID': '2003', 'ProductName': 'Mechanical Keyboard', 'Catalog': 'Electronics', 'Stock': '75', 'PriceEach': '3500'}, {'ProductID': '2004', 'ProductName': 'Office Chair', 'Catalog': 'Furniture', 'Stock': '40', 'PriceEach': '7500'}, {'ProductID': '2005', 'ProductName': 'Desk Lamp', 'Catalog': 'Furniture', 'Stock': '60', 'PriceEach': '2200'}, {'ProductID': '2006', 'ProductName': 'Smartphone', 'Catalog': 'Electronics', 'Stock': '30', 'PriceEach': '65000'}, {'ProductID': '2007', 'ProductName': 'Water Bottle', 'Catalog': 'Kitchen', 'Stock': '150', 'PriceEach': '450'}, {'ProductID': '2008', 'ProductName': 'Coffee Maker', 'Catalog': 'Kitchen', 'Stock': '40', 'PriceEach': '4800'}, {'ProductID': '2009', 'ProductName': 'Running Shoes', 'Catalog': 'Sports', 'Stock': '50', 'PriceEach': '5500'}, {'ProductID': '2010', 'ProductName': 'Tennis Racket', 'Catalog': 'Sports', 'Stock': '35', 'PriceEach': '7200'}, {'ProductID': '2011', 'ProductName': 'Monitor 24inch', 'Catalog': 'Electronics', 'Stock': '45', 'PriceEach': '11000'}, {'ProductID': '2012', 'ProductName': 'Headphones', 'Catalog': 'Electronics', 'Stock': '80', 'PriceEach': '2800'}, {'ProductID': '2013', 'ProductName': 'Backpack', 'Catalog': 'Travel', 'Stock': '90', 'PriceEach': '1800'}, {'ProductID': '2014', 'ProductName': 'Power Bank', 'Catalog': 'Electronics', 'Stock': '70', 'PriceEach': '1600'}, {'ProductID': '2015', 'ProductName': 'Microwave Oven', 'Catalog': 'Kitchen', 'Stock': '25', 'PriceEach': '9800'}, {'ProductID': '2016', 'ProductName': 'Smart Watch', 'Catalog': 'Electronics', 'Stock': '40', 'PriceEach': '9200'}, {'ProductID': '2017', 'ProductName': 'Printer', 'Catalog': 'Office Supplies', 'Stock': '20', 'PriceEach': '14500'}, {'ProductID': '2018', 'ProductName': 'Notebook Pack', 'Catalog': 'Office Supplies', 'Stock': '200', 'PriceEach': '300'}, {'ProductID': '2019', 'ProductName': 'Pen Drive 64GB', 'Catalog': 'Electronics', 'Stock': '150', 'PriceEach': '900'}, {'ProductID': '2020', 'ProductName': 'Desk Organizer', 'Catalog': 'Furniture', 'Stock': '65', 'PriceEach': '1300'}]} 
+2025-11-07 17:31:54,058 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:31:54,058 - WARNING - FastAPI Logger - Product not found for product_id: 2
+2025-11-07 17:32:24,561 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:32:24,562 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:32:24,563 - INFO - FastAPI Logger - available products: {'products': [{'ProductID': '2001', 'ProductName': 'Laptop', 'Catalog': 'Electronics', 'Stock': '25', 'PriceEach': '85000'}, {'ProductID': '2002', 'ProductName': 'Wireless Mouse', 'Catalog': 'Electronics', 'Stock': '100', 'PriceEach': '1200'}, {'ProductID': '2003', 'ProductName': 'Mechanical Keyboard', 'Catalog': 'Electronics', 'Stock': '75', 'PriceEach': '3500'}, {'ProductID': '2004', 'ProductName': 'Office Chair', 'Catalog': 'Furniture', 'Stock': '40', 'PriceEach': '7500'}, {'ProductID': '2005', 'ProductName': 'Desk Lamp', 'Catalog': 'Furniture', 'Stock': '60', 'PriceEach': '2200'}, {'ProductID': '2006', 'ProductName': 'Smartphone', 'Catalog': 'Electronics', 'Stock': '30', 'PriceEach': '65000'}, {'ProductID': '2007', 'ProductName': 'Water Bottle', 'Catalog': 'Kitchen', 'Stock': '150', 'PriceEach': '450'}, {'ProductID': '2008', 'ProductName': 'Coffee Maker', 'Catalog': 'Kitchen', 'Stock': '40', 'PriceEach': '4800'}, {'ProductID': '2009', 'ProductName': 'Running Shoes', 'Catalog': 'Sports', 'Stock': '50', 'PriceEach': '5500'}, {'ProductID': '2010', 'ProductName': 'Tennis Racket', 'Catalog': 'Sports', 'Stock': '35', 'PriceEach': '7200'}, {'ProductID': '2011', 'ProductName': 'Monitor 24inch', 'Catalog': 'Electronics', 'Stock': '45', 'PriceEach': '11000'}, {'ProductID': '2012', 'ProductName': 'Headphones', 'Catalog': 'Electronics', 'Stock': '80', 'PriceEach': '2800'}, {'ProductID': '2013', 'ProductName': 'Backpack', 'Catalog': 'Travel', 'Stock': '90', 'PriceEach': '1800'}, {'ProductID': '2014', 'ProductName': 'Power Bank', 'Catalog': 'Electronics', 'Stock': '70', 'PriceEach': '1600'}, {'ProductID': '2015', 'ProductName': 'Microwave Oven', 'Catalog': 'Kitchen', 'Stock': '25', 'PriceEach': '9800'}, {'ProductID': '2016', 'ProductName': 'Smart Watch', 'Catalog': 'Electronics', 'Stock': '40', 'PriceEach': '9200'}, {'ProductID': '2017', 'ProductName': 'Printer', 'Catalog': 'Office Supplies', 'Stock': '20', 'PriceEach': '14500'}, {'ProductID': '2018', 'ProductName': 'Notebook Pack', 'Catalog': 'Office Supplies', 'Stock': '200', 'PriceEach': '300'}, {'ProductID': '2019', 'ProductName': 'Pen Drive 64GB', 'Catalog': 'Electronics', 'Stock': '150', 'PriceEach': '900'}, {'ProductID': '2020', 'ProductName': 'Desk Organizer', 'Catalog': 'Furniture', 'Stock': '65', 'PriceEach': '1300'}]} 
+2025-11-07 17:32:24,563 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:32:24,564 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:33:34,175 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:33:34,177 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:34:05,500 - INFO - FastAPI Logger - Products endpoint accessed
+2025-11-07 17:34:05,502 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:34:05,503 - INFO - FastAPI Logger - available products: {'products': [{'ProductID': '2001', 'ProductName': 'Laptop', 'Catalog': 'Electronics', 'Stock': '25', 'PriceEach': '85000'}, {'ProductID': '2002', 'ProductName': 'Wireless Mouse', 'Catalog': 'Electronics', 'Stock': '100', 'PriceEach': '1200'}, {'ProductID': '2003', 'ProductName': 'Mechanical Keyboard', 'Catalog': 'Electronics', 'Stock': '75', 'PriceEach': '3500'}, {'ProductID': '2004', 'ProductName': 'Office Chair', 'Catalog': 'Furniture', 'Stock': '40', 'PriceEach': '7500'}, {'ProductID': '2005', 'ProductName': 'Desk Lamp', 'Catalog': 'Furniture', 'Stock': '60', 'PriceEach': '2200'}, {'ProductID': '2006', 'ProductName': 'Smartphone', 'Catalog': 'Electronics', 'Stock': '30', 'PriceEach': '65000'}, {'ProductID': '2007', 'ProductName': 'Water Bottle', 'Catalog': 'Kitchen', 'Stock': '150', 'PriceEach': '450'}, {'ProductID': '2008', 'ProductName': 'Coffee Maker', 'Catalog': 'Kitchen', 'Stock': '40', 'PriceEach': '4800'}, {'ProductID': '2009', 'ProductName': 'Running Shoes', 'Catalog': 'Sports', 'Stock': '50', 'PriceEach': '5500'}, {'ProductID': '2010', 'ProductName': 'Tennis Racket', 'Catalog': 'Sports', 'Stock': '35', 'PriceEach': '7200'}, {'ProductID': '2011', 'ProductName': 'Monitor 24inch', 'Catalog': 'Electronics', 'Stock': '45', 'PriceEach': '11000'}, {'ProductID': '2012', 'ProductName': 'Headphones', 'Catalog': 'Electronics', 'Stock': '80', 'PriceEach': '2800'}, {'ProductID': '2013', 'ProductName': 'Backpack', 'Catalog': 'Travel', 'Stock': '90', 'PriceEach': '1800'}, {'ProductID': '2014', 'ProductName': 'Power Bank', 'Catalog': 'Electronics', 'Stock': '70', 'PriceEach': '1600'}, {'ProductID': '2015', 'ProductName': 'Microwave Oven', 'Catalog': 'Kitchen', 'Stock': '25', 'PriceEach': '9800'}, {'ProductID': '2016', 'ProductName': 'Smart Watch', 'Catalog': 'Electronics', 'Stock': '40', 'PriceEach': '9200'}, {'ProductID': '2017', 'ProductName': 'Printer', 'Catalog': 'Office Supplies', 'Stock': '20', 'PriceEach': '14500'}, {'ProductID': '2018', 'ProductName': 'Notebook Pack', 'Catalog': 'Office Supplies', 'Stock': '200', 'PriceEach': '300'}, {'ProductID': '2019', 'ProductName': 'Pen Drive 64GB', 'Catalog': 'Electronics', 'Stock': '150', 'PriceEach': '900'}, {'ProductID': '2020', 'ProductName': 'Desk Organizer', 'Catalog': 'Furniture', 'Stock': '65', 'PriceEach': '1300'}]} 
+2025-11-07 17:34:05,505 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:38:14,783 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:38:14,784 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:38:14,784 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:39:10,392 - INFO - FastAPI Logger - Product endpoint accessed for product_id: 2001
+2025-11-07 17:39:10,393 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:39:10,394 - INFO - FastAPI Logger - available products: {'products': [{'ProductID': '2001', 'ProductName': 'Laptop', 'Catalog': 'Electronics', 'Stock': '25', 'PriceEach': '85000'}, {'ProductID': '2002', 'ProductName': 'Wireless Mouse', 'Catalog': 'Electronics', 'Stock': '100', 'PriceEach': '1200'}, {'ProductID': '2003', 'ProductName': 'Mechanical Keyboard', 'Catalog': 'Electronics', 'Stock': '75', 'PriceEach': '3500'}, {'ProductID': '2004', 'ProductName': 'Office Chair', 'Catalog': 'Furniture', 'Stock': '40', 'PriceEach': '7500'}, {'ProductID': '2005', 'ProductName': 'Desk Lamp', 'Catalog': 'Furniture', 'Stock': '60', 'PriceEach': '2200'}, {'ProductID': '2006', 'ProductName': 'Smartphone', 'Catalog': 'Electronics', 'Stock': '30', 'PriceEach': '65000'}, {'ProductID': '2007', 'ProductName': 'Water Bottle', 'Catalog': 'Kitchen', 'Stock': '150', 'PriceEach': '450'}, {'ProductID': '2008', 'ProductName': 'Coffee Maker', 'Catalog': 'Kitchen', 'Stock': '40', 'PriceEach': '4800'}, {'ProductID': '2009', 'ProductName': 'Running Shoes', 'Catalog': 'Sports', 'Stock': '50', 'PriceEach': '5500'}, {'ProductID': '2010', 'ProductName': 'Tennis Racket', 'Catalog': 'Sports', 'Stock': '35', 'PriceEach': '7200'}, {'ProductID': '2011', 'ProductName': 'Monitor 24inch', 'Catalog': 'Electronics', 'Stock': '45', 'PriceEach': '11000'}, {'ProductID': '2012', 'ProductName': 'Headphones', 'Catalog': 'Electronics', 'Stock': '80', 'PriceEach': '2800'}, {'ProductID': '2013', 'ProductName': 'Backpack', 'Catalog': 'Travel', 'Stock': '90', 'PriceEach': '1800'}, {'ProductID': '2014', 'ProductName': 'Power Bank', 'Catalog': 'Electronics', 'Stock': '70', 'PriceEach': '1600'}, {'ProductID': '2015', 'ProductName': 'Microwave Oven', 'Catalog': 'Kitchen', 'Stock': '25', 'PriceEach': '9800'}, {'ProductID': '2016', 'ProductName': 'Smart Watch', 'Catalog': 'Electronics', 'Stock': '40', 'PriceEach': '9200'}, {'ProductID': '2017', 'ProductName': 'Printer', 'Catalog': 'Office Supplies', 'Stock': '20', 'PriceEach': '14500'}, {'ProductID': '2018', 'ProductName': 'Notebook Pack', 'Catalog': 'Office Supplies', 'Stock': '200', 'PriceEach': '300'}, {'ProductID': '2019', 'ProductName': 'Pen Drive 64GB', 'Catalog': 'Electronics', 'Stock': '150', 'PriceEach': '900'}, {'ProductID': '2020', 'ProductName': 'Desk Organizer', 'Catalog': 'Furniture', 'Stock': '65', 'PriceEach': '1300'}]} 
+2025-11-07 17:39:10,394 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:39:10,395 - WARNING - FastAPI Logger - Product not found for product_id: 2001
+2025-11-07 17:42:29,110 - INFO - FastAPI Logger - \U0001f539 Request received for product ID: 2001
+2025-11-07 17:42:29,111 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:42:29,112 - INFO - FastAPI Logger - Total products available: 20
+2025-11-07 17:42:29,112 - INFO - FastAPI Logger - \u2705 Product found: {'ProductID': '2001', 'ProductName': 'Laptop', 'Catalog': 'Electronics', 'Stock': '25', 'PriceEach': '85000'}
+2025-11-07 17:46:08,152 - INFO - FastAPI Logger - \U0001f539 Request received for unique catalogs list
+2025-11-07 17:46:08,155 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:46:08,157 - INFO - FastAPI Logger - \u2705 Found 6 unique catalogs: ['Electronics', 'Furniture', 'Kitchen', 'Office Supplies', 'Sports', 'Travel']
+2025-11-07 17:47:34,342 - INFO - FastAPI Logger - \U0001f539 Request received for unique catalogs list
+2025-11-07 17:47:34,343 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:47:34,344 - WARNING - FastAPI Logger - \u26a0\ufe0f No unique catalogs found.
+2025-11-07 17:48:04,042 - INFO - FastAPI Logger - \U0001f539 Request received for unique catalogs list
+2025-11-07 17:48:04,045 - INFO - FastAPI Logger - Reading products from: C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\products.json
+2025-11-07 17:48:04,046 - WARNING - FastAPI Logger - \u26a0\ufe0f No unique catalogs found.

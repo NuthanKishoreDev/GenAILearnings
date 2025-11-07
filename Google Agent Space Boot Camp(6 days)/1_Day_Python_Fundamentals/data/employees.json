@@ -1,0 +1,122 @@
+[
+  {
+    "EmpID": "1001",
+    "Name": "Nuthan",
+    "Department": "AI",
+    "Salary": "90000"
+  },
+  {
+    "EmpID": "1002",
+    "Name": "Anita",
+    "Department": "Data Science",
+    "Salary": "85000"
+  },
+  {
+    "EmpID": "1003",
+    "Name": "Ravi",
+    "Department": "Cloud",
+    "Salary": "78000"
+  },
+  {
+    "EmpID": "1004",
+    "Name": "Sneha",
+    "Department": "DevOps",
+    "Salary": "76000"
+  },
+  {
+    "EmpID": "1005",
+    "Name": "Arjun",
+    "Department": "AI",
+    "Salary": "92000"
+  },
+  {
+    "EmpID": "1006",
+    "Name": "Priya",
+    "Department": "Data Analytics",
+    "Salary": "83000"
+  },
+  {
+    "EmpID": "1007",
+    "Name": "Kiran",
+    "Department": "Machine Learning",
+    "Salary": "87000"
+  },
+  {
+    "EmpID": "1008",
+    "Name": "Meena",
+    "Department": "HR",
+    "Salary": "65000"
+  },
+  {
+    "EmpID": "1009",
+    "Name": "Sanjay",
+    "Department": "Finance",
+    "Salary": "70000"
+  },
+  {
+    "EmpID": "1010",
+    "Name": "Pooja",
+    "Department": "Marketing",
+    "Salary": "68000"
+  },
+  {
+    "EmpID": "1011",
+    "Name": "Amit",
+    "Department": "Sales",
+    "Salary": "72000"
+  },
+  {
+    "EmpID": "1012",
+    "Name": "Deepa",
+    "Department": "Data Science",
+    "Salary": "88000"
+  },
+  {
+    "EmpID": "1013",
+    "Name": "Rohit",
+    "Department": "Cloud",
+    "Salary": "81000"
+  },
+  {
+    "EmpID": "1014",
+    "Name": "Kavya",
+    "Department": "DevOps",
+    "Salary": "77000"
+  },
+  {
+    "EmpID": "1015",
+    "Name": "Suresh",
+    "Department": "AI",
+    "Salary": "95000"
+  },
+  {
+    "EmpID": "1016",
+    "Name": "Manoj",
+    "Department": "Product",
+    "Salary": "89000"
+  },
+  {
+    "EmpID": "1017",
+    "Name": "Divya",
+    "Department": "Support",
+    "Salary": "64000"
+  },
+  {
+    "EmpID": "1018",
+    "Name": "Rajesh",
+    "Department": "Finance",
+    "Salary": "71000"
+  },
+  {
+    "EmpID": "1019",
+    "Name": "Lakshmi",
+    "Department": "HR",
+    "Salary": "66000"
+  },
+  {
+    "EmpID": "1020",
+    "Name": "Tejas",
+    "Department": "Machine Learning",
+    "Salary": "88000"
+  }
+]

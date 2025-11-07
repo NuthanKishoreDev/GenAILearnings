@@ -1,0 +1,142 @@
+[
+  {
+    "ProductID": "2001",
+    "ProductName": "Laptop",
+    "Catalog": "Electronics",
+    "Stock": "25",
+    "PriceEach": "85000"
+  },
+  {
+    "ProductID": "2002",
+    "ProductName": "Wireless Mouse",
+    "Catalog": "Electronics",
+    "Stock": "100",
+    "PriceEach": "1200"
+  },
+  {
+    "ProductID": "2003",
+    "ProductName": "Mechanical Keyboard",
+    "Catalog": "Electronics",
+    "Stock": "75",
+    "PriceEach": "3500"
+  },
+  {
+    "ProductID": "2004",
+    "ProductName": "Office Chair",
+    "Catalog": "Furniture",
+    "Stock": "40",
+    "PriceEach": "7500"
+  },
+  {
+    "ProductID": "2005",
+    "ProductName": "Desk Lamp",
+    "Catalog": "Furniture",
+    "Stock": "60",
+    "PriceEach": "2200"
+  },
+  {
+    "ProductID": "2006",
+    "ProductName": "Smartphone",
+    "Catalog": "Electronics",
+    "Stock": "30",
+    "PriceEach": "65000"
+  },
+  {
+    "ProductID": "2007",
+    "ProductName": "Water Bottle",
+    "Catalog": "Kitchen",
+    "Stock": "150",
+    "PriceEach": "450"
+  },
+  {
+    "ProductID": "2008",
+    "ProductName": "Coffee Maker",
+    "Catalog": "Kitchen",
+    "Stock": "40",
+    "PriceEach": "4800"
+  },
+  {
+    "ProductID": "2009",
+    "ProductName": "Running Shoes",
+    "Catalog": "Sports",
+    "Stock": "50",
+    "PriceEach": "5500"
+  },
+  {
+    "ProductID": "2010",
+    "ProductName": "Tennis Racket",
+    "Catalog": "Sports",
+    "Stock": "35",
+    "PriceEach": "7200"
+  },
+  {
+    "ProductID": "2011",
+    "ProductName": "Monitor 24inch",
+    "Catalog": "Electronics",
+    "Stock": "45",
+    "PriceEach": "11000"
+  },
+  {
+    "ProductID": "2012",
+    "ProductName": "Headphones",
+    "Catalog": "Electronics",
+    "Stock": "80",
+    "PriceEach": "2800"
+  },
+  {
+    "ProductID": "2013",
+    "ProductName": "Backpack",
+    "Catalog": "Travel",
+    "Stock": "90",
+    "PriceEach": "1800"
+  },
+  {
+    "ProductID": "2014",
+    "ProductName": "Power Bank",
+    "Catalog": "Electronics",
+    "Stock": "70",
+    "PriceEach": "1600"
+  },
+  {
+    "ProductID": "2015",
+    "ProductName": "Microwave Oven",
+    "Catalog": "Kitchen",
+    "Stock": "25",
+    "PriceEach": "9800"
+  },
+  {
+    "ProductID": "2016",
+    "ProductName": "Smart Watch",
+    "Catalog": "Electronics",
+    "Stock": "40",
+    "PriceEach": "9200"
+  },
+  {
+    "ProductID": "2017",
+    "ProductName": "Printer",
+    "Catalog": "Office Supplies",
+    "Stock": "20",
+    "PriceEach": "14500"
+  },
+  {
+    "ProductID": "2018",
+    "ProductName": "Notebook Pack",
+    "Catalog": "Office Supplies",
+    "Stock": "200",
+    "PriceEach": "300"
+  },
+  {
+    "ProductID": "2019",
+    "ProductName": "Pen Drive 64GB",
+    "Catalog": "Electronics",
+    "Stock": "150",
+    "PriceEach": "900"
+  },
+  {
+    "ProductID": "2020",
+    "ProductName": "Desk Organizer",
+    "Catalog": "Furniture",
+    "Stock": "65",
+    "PriceEach": "1300"
+  }
+]

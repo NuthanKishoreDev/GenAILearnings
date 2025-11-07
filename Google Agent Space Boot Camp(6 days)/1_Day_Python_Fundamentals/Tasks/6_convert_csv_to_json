@@ -1,0 +1,22 @@
+import csv, json, os, dotenv
+
+dotenv.load_dotenv()
+data_folder_path = os.getenv("data_folder_path")
+employees_csv_file_path = data_folder_path + r"\employees.csv"
+employees_json_file_path = data_folder_path + r"\employees.json"
+products_csv_file_path = data_folder_path + r"\products.csv"
+products_json_file_path = data_folder_path + r"\products.json"
+
+
+def csv_to_json(csv_file, json_file):
+    try:
+        with open(csv_file) as f:
+            reader = csv.DictReader(f)
+            data = list(reader)
+        with open(json_file, "w") as f:
+            json.dump(data, f, indent=2)
+    except Exception as e:
+        print(f"Error: {e}")
+
+# csv_to_json(employees_csv_file_path, employees_json_file_path)
+csv_to_json(products_csv_file_path, products_json_file_path)
