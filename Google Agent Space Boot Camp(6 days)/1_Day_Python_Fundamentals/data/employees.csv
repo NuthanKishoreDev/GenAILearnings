@@ -1,21 +1,2 @@
-EmpID,Name,Department,Salary
-1001,Nuthan,AI,90000
-1002,Anita,Data Science,85000
-1003,Ravi,Cloud,78000
-1004,Sneha,DevOps,76000
-1005,Arjun,AI,92000
-1006,Priya,Data Analytics,83000
-1007,Kiran,Machine Learning,87000
-1008,Meena,HR,65000
-1009,Sanjay,Finance,70000
-1010,Pooja,Marketing,68000
-1011,Amit,Sales,72000
-1012,Deepa,Data Science,88000
-1013,Rohit,Cloud,81000
-1014,Kavya,DevOps,77000
-1015,Suresh,AI,95000
-1016,Manoj,Product,89000
-1017,Divya,Support,64000
-1018,Rajesh,Finance,71000
-1019,Lakshmi,HR,66000
-1020,Tejas,Machine Learning,88000
+Name,Department,Salary
+Nuthan,AI,90000

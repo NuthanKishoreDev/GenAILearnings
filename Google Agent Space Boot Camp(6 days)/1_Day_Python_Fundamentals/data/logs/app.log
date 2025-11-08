@@ -1,4 +1,16 @@
 Application started
+ERROR:root:Division by zero error
+Traceback (most recent call last):
+  File "c:\GCP\GenAILearnings\Google Agent Space Boot Camp(6 days)\1_Day_Python_Fundamentals\Tasks\1_into_pyhton_core_libs.py", line 155, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+Stack (most recent call last):
+  File "c:\GCP\GenAILearnings\Google Agent Space Boot Camp(6 days)\1_Day_Python_Fundamentals\Tasks\1_into_pyhton_core_libs.py", line 157, in <module>
+    logging.exception("Division by zero error", exc_info=True, stack_info=True,extra={'user': 'Nuthan'})
 INFO:root:Application started
 WARNING:root:Low disk space warning
 ERROR:root:An error occurred
+INFO:root:System report generated successfully for: System Report Generated at 2025-11-08 06:51:46.625367
+Python Version: 3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]
+Working Directory: C:\GCP\GenAILearnings\Google Agent Space Boot Camp(6 days)\1_Day_Python_Fundamentals

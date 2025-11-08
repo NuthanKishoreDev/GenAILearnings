@@ -5,9 +5,9 @@ os.environ["API_KEY"] = "12345"
 print(os.getcwd())
 print(os.getenv("API_KEY"))
 
-with open("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\Day-1 Python Fundamentals\\data\\logs\\app.log", "w") as log_file:
+with open("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\\logs\\app.log", "w") as log_file:
     log_file.write("Application started\n")
-print("Log file created at:", os.path.abspath("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\Day-1 Python Fundamentals\\data\\logs\\app.log"))
+print("Log file created at:", os.path.abspath("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\\logs\\app.log"))
 print("Directory 'data/logs' created and log file initialized.")
 print("Environment variable 'API_KEY' set.")
 # This code creates a directory structure, sets an environment variable,
@@ -64,6 +64,15 @@ print("Parsed Data:", parsed_data)
 import re
 pattern = r'\b\d{3}-\d{2}-\d{4}\b'
 pattern1= r'\b\d{3}=\d{3}-\d{4}\b' #mobile number pattern
+pattern2_email= r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+myemail = "Contact me at john.doe@example.com"
+match_email = re.search(pattern2_email, myemail)
+if match_email:
+    print("Found Email Address:", match_email.group())
+    print("Email Address Domain:", match_email.group().split('@')[1])
+else:
+    print("No Email Address found.")
+        
 mobile_number = "My mobile number is 984=123-0443."
 match1 = re.search(pattern1, mobile_number)
 if match1:
@@ -127,12 +136,12 @@ print("SHA-256 Hash of 'Hello, World!':", hex_dig)
 #csv module
 import csv
 
-with open("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\Day-1 Python Fundamentals\\data\\employees.csv", "w", newline="") as f:
+with open("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\\employees.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerow(["Name", "Department", "Salary"])
     writer.writerow(["Nuthan", "AI", "90000"])
 
-with open("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\Day-1 Python Fundamentals\\data\\employees.csv") as f:
+with open("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\\employees.csv") as f:
     reader = csv.reader(f)
     for row in reader:
         print(row)
@@ -140,7 +149,7 @@ with open("C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\Day-1 
 #logging module
 import logging
 
-logging.basicConfig(filename="C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\Day-1 Python Fundamentals\\data\\logs\\app.log", level=logging)
+logging.basicConfig(filename="C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\1_Day_Python_Fundamentals\\data\\logs\\app.log", level=logging.INFO)
 
 try:
     1 / 0
@@ -173,7 +182,7 @@ print("Square Root of 49:", math.sqrt(49))
 
 #Pathlib module
 from pathlib import Path
-path = Path("C:/GCP/GenAILearnings/Google Agent Space Boot Camp(6 days)/Day-1 Python Fundamentals/data/logs")
+path = Path("C://GCP//GenAILearnings//Google Agent Space Boot Camp(6 days)//1_Day_Python_Fundamentals//data//logs//")
 print("Path Exists:", path.exists())
 print("Is Directory:", path.is_dir())
 print("Files in Directory:", list(path.iterdir()))
@@ -191,19 +200,18 @@ print("Pathlib module demonstration completed.")
 
 #Assignment - 1
 # ---------------------
-'''
-Goal: Create below that:
+# '''Goal: Create below that:
 
-Uses os, sys, and datetime.
-Logs the report using logging.
-Saves outputs to report.log.
+# Uses os, sys, and datetime.
+# Logs the report using logging.
+# Saves outputs to report.log.
 
-Example Output
-System Report Generated at 2025-11-07 12:00:00
-Python Version: 3.11.7
-Working Directory: C:\Users\Nuthan\Projects
-Report saved successfully!
-'''
+# Example Output
+# System Report Generated at 2025-11-07 12:00:00
+# Python Version: 3.11.7
+# Working Directory: C:\Users\Nuthan\Projects
+# Report saved successfully!'''
+
 import os,sys,datetime,logging
 
 logging.basicConfig(filename="C:\\GCP\\GenAILearnings\\Google Agent Space Boot Camp(6 days)\\Day-1 Python Fundamentals\\data\\logs\\report.log", level=logging.INFO)
@@ -212,7 +220,5 @@ working_dir = os.getcwd()
 python_version = sys.version
 report = f"""System Report Generated at {now}
 Python Version: {python_version}
-Working Directory: {working_dir}
-"""
-
+Working Directory: {working_dir}"""
 logging.info(f"System report generated successfully for: {report}")
