@@ -1,0 +1,12 @@
+QUERY:What is 3. Service Level Agreements?
+RESULT:Knowledge_Repository/IT_Company_Onboarding_policies.md
+RESULT:Knowledge_Repository/_IT Support Policies – IT Company_1. Introduction.docx
+RESULT:Knowledge_Repository/_IT Support Policies – IT Company_1. Introduction.docx
+QUERY:Duration of Google Agentic AI Complete Learning Roadmap
+RESULT:Knowledge_Repository/google_agentic_ai_roadmap.md
+RESULT:Knowledge_Repository/google_agentic_ai_roadmap.md
+RESULT:Knowledge_Repository/google_agentic_ai_roadmap.md
+QUERY:what are First Day Checklist of Onboarding New Employees?
+RESULT:Knowledge_Repository/IT_Company_Onboarding_policies.md
+RESULT:Knowledge_Repository/IT_Company_Onboarding_policies.md
+RESULT:Knowledge_Repository/IT_Company_Onboarding_policies.md
