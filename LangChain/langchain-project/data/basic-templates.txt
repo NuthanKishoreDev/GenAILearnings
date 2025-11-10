@@ -1,0 +1,4 @@
+: Generate a marketing slogan for Smartphone highlighting camera quality.
+: Generate a marketing slogan for Electric Car highlighting eco-friendly.
+: Generate a marketing slogan for AI Assistant highlighting natural conversation.
+BASIC_TEMPLATES_COMPLETE
